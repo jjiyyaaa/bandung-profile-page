@@ -38,7 +38,7 @@ Any standard modern desktop or mobile web browser.
 3. **Open the project:**
     Simply double-click the Lat1.html file to launch it inside your default web browser, or use VS Code's Live Server extension.
 
-### 📂 Project Structure
+## 📂 Project Structure
 ├── image/
 │   ├── Bandung_coa.png      # City crest / emblem
 │   ├── bosscha.jpg          # Bosscha Observatory preview
@@ -50,5 +50,5 @@ Any standard modern desktop or mobile web browser.
 ├── Lat1.html                # Project core semantic HTML entry point
 └── README.md                # Project documentation
 
-### 👩‍💻 Author
+## 👩‍💻 Author
 GitHub: @jjiyyaaa
