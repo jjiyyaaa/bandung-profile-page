@@ -39,16 +39,18 @@ Any standard modern desktop or mobile web browser.
     Simply double-click the Lat1.html file to launch it inside your default web browser, or use VS Code's Live Server extension.
 
 ## 📂 Project Structure
-├── image/
-│   ├── Bandung_coa.png      # City crest / emblem
-│   ├── bosscha.jpg          # Bosscha Observatory preview
-│   ├── farm-house.jpg       # Farm House Lembang preview
-│   ├── geografis.jpg        # Geographic landscape view
-│   └── history.jpg          # Historical landmark header
-├── style/
-│   └── style.css            # Base styles, variables, and breakpoint sheets
-├── Lat1.html                # Project core semantic HTML entry point
-└── README.md                # Project documentation
+<pre>
+   ├── image/
+   │   ├── Bandung_coa.png      # City crest / emblem
+   │   ├── bosscha.jpg          # Bosscha Observatory preview
+   │   ├── farm-house.jpg       # Farm House Lembang preview
+   │   ├── geografis.jpg        # Geographic landscape view
+   │   └── history.jpg          # Historical landmark header
+   ├── style/
+   │   └── style.css            # Base styles, variables, and breakpoint sheets
+   ├── Lat1.html                # Project core semantic HTML entry point
+   └── README.md                # Project documentation
+</pre>
 
 ## 👩‍💻 Author
 GitHub: @jjiyyaaa
